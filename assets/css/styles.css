@@ -9,6 +9,10 @@ body {
   font-size: 15px;
 }
 
+h1 {
+  font-weight: 600;
+}
+
 p {
   font-size: 12px;
 }
@@ -70,5 +74,12 @@ img {
     right: 8%;
     z-index: 1;
   }
+}
+
+.about-product {
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 0.5em;
+  font-weight: 700;
 }
 
